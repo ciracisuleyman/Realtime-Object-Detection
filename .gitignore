@@ -1,0 +1,10 @@
+# PyCharm ayar klasörü
+.idea/
+
+# Model dosyaları
+*.pt
+*.onnx
+
+# Geçici dosyalar
+__pycache__/
+*.log
